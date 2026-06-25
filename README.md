@@ -6,17 +6,17 @@ The application uses LangChain, FAISS, Google Gemini embeddings, and Streamlit t
 
 ---
 
+## 🎈 Streamlit APP
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multi-rag-pdf-chatbot-r7hjy8zybcppdnuptffpzs.streamlit.app/)
+
+---
+
 ## 📸 Screenshots
 
 ## Streamlit Application
 
 ![Screen](img.png)
-
----
-
-## 🎈 Streamlit APP
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
 
 ---
 
